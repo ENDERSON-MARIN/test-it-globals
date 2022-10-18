@@ -1,0 +1,29 @@
+{
+    "products": [
+        { "id": 1, 
+        "name": "Pufi RAIN", 
+        "description": "Descripción del producto. Este es un texto simulado",
+        "url_image_small":"https://img.freepik.com/foto-gratis/vista-lateral-mujer-asiatica-paraguas_53876-104910.jpg?w=740&t=st=1666048626~exp=1666049226~hmac=5a41c9e5b6a62f5c5165638e93cb69cea63c3648710890d8b14de553da7054dd",
+        "url_image_big":"https://img.freepik.com/foto-gratis/familia-cruzando-calle-dia-lluvioso_53876-126922.jpg?w=740&t=st=1666049947~exp=1666050547~hmac=6ed37d77ce68a8512c15662b4d85b5e92257d2093d1e4cda66f4ed8867fe9f55"
+        },
+        { "id": 2, 
+        "name": "Pufi SILLA", 
+        "description": "Descripción del producto. Este es un texto simulado",
+        "url_image_small":"https://img.freepik.com/foto-gratis/muebles-modernos-estudios-estilo-vida-verde_1122-1837.jpg?1&w=740&t=st=1666049872~exp=1666050472~hmac=d86ae3b0abf4e61f420b6a95555bdf406bf8446bc3d185c7319182de8e37b41d",
+        "url_image_big":"https://img.freepik.com/foto-gratis/diseno-interiores-sala-estar-moderna-mediados-siglo-arbol-monstera_53876-129804.jpg?w=740&t=st=1666049901~exp=1666050501~hmac=8fa98ed76883fe95b92e2cf3c3b773eda1f633017e33e4142f14ea6905b9ed77"
+        },
+        { "id": 3, 
+        "name": "Pufi CART", 
+        "description": "Descripción del producto. Este es un texto simulado",
+        "url_image_small":"https://img.freepik.com/psd-gratis/3d-render-ilustracion-carrito-compras-icono-aislado_439185-11697.jpg?w=740&t=st=1666049010~exp=1666049610~hmac=40ab06a0360bc88aef79d69b413817656760916d0cd039f3c2e031523c089f88",
+        "url_image_big":"https://img.freepik.com/foto-gratis/concepto-creativo-carrito-compras-regalos-aislados-fondo-rosa-regalos-envueltos-papel-kraft-cinta-roja-lazo_493343-25803.jpg?w=740&t=st=1666049042~exp=1666049642~hmac=0d64827042118330a0103f941ecb1a2936d90b71453853773bab793faa125b2d"
+        },
+        { "id": 4, 
+        "name": "Pufi LAPTOP", 
+        "description": "Descripción del producto. Este es un texto simulado",
+        "url_image_small":"https://img.freepik.com/foto-gratis/computadora-portatil-abierta_144627-12148.jpg?w=740&t=st=1666049466~exp=1666050066~hmac=8e3a7e15c9f4b9e8ba02d2691aadc6722760e319e142299e78b0b7e263d62b33",
+        "url_image_big":"https://img.freepik.com/foto-gratis/laptop-espacio-coworking_53876-14515.jpg?w=740&t=st=1666049495~exp=1666050095~hmac=204439770b51de81d54ad83d797ee74a136cef437a18605d967b557888457190"
+        }
+
+    ]
+}
